@@ -1,0 +1,6 @@
+sqlite3 securecahin.db
+SELECT * FROM users;
+SELECT * FROM messages;
+
+
+
